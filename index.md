@@ -4,7 +4,7 @@ This is a school project with the intention of improve a part of campus; a space
 
 ### The Space
 
-The location to be improved.
+The location to be improved upon.
 
 ```markdown
 Syntax highlighted code block
