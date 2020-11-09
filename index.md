@@ -4,10 +4,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempus blandi
 ## Current
 ![Current Space](https://raw.githubusercontent.com/aducks/space/gh-pages/img/Current.png)
 
-## Wrongdoing
+## Wrong
 ![Wrongs in Space](https://raw.githubusercontent.com/aducks/space/gh-pages/img/affect.png)
 
-## Improved
+## Correct
 ![Improved Space](https://raw.githubusercontent.com/aducks/space/gh-pages/img/worse.png)
 
 ## Pictures #1-3
