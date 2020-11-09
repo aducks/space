@@ -25,11 +25,10 @@ Integer tempor felis non tempor molestie. Praesent eget leo venenatis, pulvinar 
 Pellentesque varius, tortor vitae facilisis semper, velit augue condimentum quam, ac auctor augue augue id sapien. Suspendisse mi dui, pretium eu auctor in, interdum sed dui. Duis sit amet viverra lacus, id fermentum sapien. Phasellus convallis turpis vel lacinia dignissim. Cras elementum, lacus sit amet luctus pulvinar, enim est malesuada est, at egestas tellus lectus viverra est. Suspendisse scelerisque, leo eget rhoncus suscipit, ligula velit sagittis diam, non gravida justo massa eget lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam pharetra malesuada orci, ut viverra nisl mattis sit amet. Nullam id est sed nunc faucibus hendrerit. Donec scelerisque luctus nibh. Nunc venenatis, enim et scelerisque feugiat, libero ligula tincidunt ipsum, non hendrerit libero mi et libero. Ut ut ex ut mauris laoreet eleifend.
 
 ## Video 1
-[![Gamecube](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](
-https://youtu.be/GKSoXiBlnZY "Video Title")
+[![Gamecube]](https://youtu.be/GKSoXiBlnZY "Video 1")
 
 ## Video 2
-[![Rick roll]()](https://youtu.be/dQw4w9WgXcQ "Video Title")
+[![Rick roll]](https://youtu.be/dQw4w9WgXcQ "Video 2")
 
 ## Video 3
-[![third video]()](https://youtu.be/jNQXAC9IVRw "Video Title")
+[![third video]()](https://youtu.be/jNQXAC9IVRw "Video 3")
