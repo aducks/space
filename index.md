@@ -5,10 +5,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempus blandi
 ![Sample picture #1](https://cdn.pixabay.com/photo/2016/11/09/16/24/virus-1812092_960_720.jpg)
 
 ## Sample picture #2
-![Sample picture #2](https://cdn.pixabay.com/photo/2013/09/22/19/14/brick-wall-185085_960_720.jpg)
+![Wrong Space](img\affect.png)
 
 ## Sample picture #3
-![Sample picture #3](https://cdn.pixabay.com/photo/2017/06/13/13/49/indoor-2398938_960_720.jpg)
+![Improved Space](img\worse.png)
 
 ## Pictures #1-3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur condimentum metus quis ex interdum elementum. Fusce rhoncus odio sed interdum rutrum. Nunc tincidunt metus odio, vel pharetra libero eleifend ac. Maecenas quis sapien non neque malesuada finibus. Nulla dignissim semper quam, id interdum tortor lacinia eu. In hac habitasse platea.
