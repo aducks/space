@@ -2,13 +2,13 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempus blandit leo id ultricies. Duis varius nunc leo, eu efficitur lorem accumsan varius. Nam sed enim est. Duis tortor magna, mattis id convallis faucibus, sodales vel eros. Curabitur nisl nisi, gravida eu maximus pretium, accumsan ut nisi. Curabitur semper ligula odio. Suspendisse potenti. In placerat odio ut molestie dictum. Maecenas et arcu et magna bibendum ultrices in ut risus. In hac habitasse platea dictumst. Cras at cursus urna, non pulvinar ipsum. Morbi sed porta eros, quis hendrerit sapien. Mauris nec leo purus. Sed nec ultricies diam. Etiam malesuada ex justo, vitae efficitur mi imperdiet eu.
 
 ## Current Space
-<img src="https://raw.githubusercontent.com/aducks/space/gh-pages/img/Current.png" width="300" />
+<img src="https://raw.githubusercontent.com/aducks/space/gh-pages/img/Current.png" width="500" />
 
 ## Wrong within Space
-![Wrong within Space](https://raw.githubusercontent.com/aducks/space/gh-pages/img/affect.png)
+<img src="https://raw.githubusercontent.com/aducks/space/gh-pages/img/affect.png" width="500" />
 
 ## Improved Space
-![Improved Space](https://raw.githubusercontent.com/aducks/space/gh-pages/img/worse.png)
+<img src="https://raw.githubusercontent.com/aducks/space/gh-pages/img/worse.png" width="500" />
 
 ## Pictures #1-3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur condimentum metus quis ex interdum elementum. Fusce rhoncus odio sed interdum rutrum. Nunc tincidunt metus odio, vel pharetra libero eleifend ac. Maecenas quis sapien non neque malesuada finibus. Nulla dignissim semper quam, id interdum tortor lacinia eu. In hac habitasse platea.
